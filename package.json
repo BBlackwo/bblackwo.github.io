@@ -1,0 +1,22 @@
+{
+  "name": "bblackwo.github.io",
+  "version": "1.0.0",
+  "description": "My Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBlackwo/bblackwo.github.io.git"
+  },
+  "author": "BBlackwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBlackwo/bblackwo.github.io/issues"
+  },
+  "homepage": "https://github.com/BBlackwo/bblackwo.github.io#readme",
+  "dependencies": {
+    "parcel-bundler": "~1.9.7"
+  }
+}
