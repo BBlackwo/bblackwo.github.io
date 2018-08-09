@@ -2,9 +2,9 @@
   "name": "bblackwo.github.io",
   "version": "1.0.0",
   "description": "My Website",
-  "main": "index.html",
+  "main": "src/index.html",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "parcel src/index.html"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,8 @@
     "url": "https://github.com/BBlackwo/bblackwo.github.io/issues"
   },
   "homepage": "https://github.com/BBlackwo/bblackwo.github.io#readme",
-  "dependencies": {
-    "parcel-bundler": "~1.9.7"
+  "devDependencies": {
+    "node-sass": "~4.9.2",
+    "parcel-bundler": "~1.7.1"
   }
 }
